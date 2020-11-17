@@ -1,0 +1,20 @@
+{
+  "name": "rodcko-random-messages",
+  "version": "1.0.1",
+  "description": " I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Rodrigo Hernandez <rodcko@live.com>",
+  "license": "MIT",
+  "bin": {
+    "rodcko-random-msg": "bin/global.js"
+  },
+  "preferGlobal": true
+}
