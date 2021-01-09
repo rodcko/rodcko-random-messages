@@ -16,5 +16,9 @@
   "bin": {
     "rodcko-random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodcko2417/rodcko-random-messages"
+  }
 }
